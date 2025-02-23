@@ -5,6 +5,7 @@
 This project focuses on analyzing customer churn and retention for a telecommunications company. The goal is to develop a Power BI dashboard that provides key insights for the retention manager, helping to reduce churn and improve customer lifetime value.
 # Data source 
 This dataset was gotten from Deloitte
+[02 Churn-Dataset.xlsx](https://github.com/user-attachments/files/18931214/02.Churn-Dataset.xlsx)
 
 # Key Performance Indicators (KPIs)
 The dashboard tracks the following KPIs:
