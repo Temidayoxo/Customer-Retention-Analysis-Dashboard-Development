@@ -1,12 +1,12 @@
 # Customer-Retention-Analysis-Dashboard-Development
 
 
-#Overview
+# Overview
 This project focuses on analyzing customer churn and retention for a telecommunications company. The goal is to develop a Power BI dashboard that provides key insights for the retention manager, helping to reduce churn and improve customer lifetime value.
-#Data source 
+# Data source 
 This dataset was gotten from Deloitte
 
-#Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 The dashboard tracks the following KPIs:
 
 1. Churn Rate (%) – Percentage of customers who have left the service.
@@ -20,28 +20,28 @@ The dashboard tracks the following KPIs:
 
 ## Visualizations & Insights
 
-### 1. Churn Rate & Retention Rate (KPI Cards)
+ 1. Churn Rate & Retention Rate (KPI Cards)
 - Provides a quick overview of churn and retention.
 
-### 2. Churn Trend Over Time (Line Chart)
+2. Churn Trend Over Time (Line Chart)
 - Shows how churn fluctuates over different periods.
 
-### 3. Churn by Contract Type (Stacked Bar Chart)
+ 3. Churn by Contract Type (Stacked Bar Chart)
 - Highlights the risk of churn for different contract durations.
 
-### 4. Churn by Payment Method (Pie Chart)
+ 4. Churn by Payment Method (Pie Chart)
 - Identifies whether certain payment methods contribute to higher churn.
 
-### 5. Support Tickets vs. Churn (Scatter Plot)
+ 5. Support Tickets vs. Churn (Scatter Plot)
 - Analyzes the relationship between customer service interactions and churn.
 
-#Findings & Recommendations
-##Findings:
+# Findings & Recommendations
+## Findings:
 - High churn rate in month-to-month contracts, suggesting the need for customer loyalty programs.
 - Electronic check payments show the highest churn, possibly due to billing issues or user preferences.
 - Customers with frequent support issues tend to churn more, indicating the need for better customer service strategies.
 
-##Recommendations:
+## Recommendations:
 1. Encourage long-term contracts through discounts or incentives.
 2. Optimize billing processes to reduce churn from electronic check users.
 3. Improve customer support response times to reduce frustration-driven churn.
