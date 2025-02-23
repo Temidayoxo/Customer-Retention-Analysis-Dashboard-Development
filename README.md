@@ -5,7 +5,6 @@
 1. [Introduction](#introduction)  
 2. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)  
 3. [Data source](#data-source)  
-(#customer-lifetime-value-clv)
 4. [photos](#photos)  
 5. [Visualizations & Insights](#visualizations--insights)  
 6. [Findings & Recommendations](#findings--recommendations)  
