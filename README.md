@@ -1,4 +1,4 @@
-# Customer-Retention-Analysis-Dashboard-Development
+# Customer-Retention-Analysis-Dashboard
 
 # Table of Contents  
 
