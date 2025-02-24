@@ -29,6 +29,9 @@ The dashboard tracks the following KPIs:
 5. Churn by Contract Type – Breakdown of churn by contract duration.
 6. Churn by Payment Method – Analysis of churn based on payment methods.
 7. Support Tickets vs. Churn – Impact of admin/technical issues on churn.
+   # Photos
+   
+   ![churn dashboard](https://github.com/user-attachments/assets/45b8b945-9aad-4467-ac45-b299542cb431)
 
 
 ## Visualizations & Insights
